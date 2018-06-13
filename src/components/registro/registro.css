@@ -1,0 +1,37 @@
+.dataTables_paginate {
+    display: block;
+    background-color: white;
+    box-sizing: border-box;
+    border: 1px;
+    border-width: 1px;
+    border-color: #bbbbbb;
+    border-style: solid;
+    border-radius: 5%;
+}
+.dataTables_info {
+    display: block;
+}
+.paginate_button {
+    margin: 5px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.table {
+    width: 100%;
+}
+input {
+    border: 1px;
+    border-width: 1px;
+    border-color: #bbbbbb;
+    border-style: solid;
+    border-radius: 5%;
+}
+select {
+    border-radius: 5%;
+    padding: 5px;
+}
+
+/* .dataTables_length {
+    display: inline-block;
+} */
